@@ -1,4 +1,4 @@
-# 智能新闻秘书 (SmartNewsButler)
+[# 智能新闻秘书 (SmartNewsButler)
 ## 项目简介
 智能新闻秘书是一个集成了全网新闻爬虫、内容精简和个性化推荐的开源项目。它旨在为用户提供一个高效、个性化的新闻阅读体验，同时作为机器学习爱好者的学习和实践平台。
 ## 开发计划
@@ -37,3 +37,4 @@
 ## 许可证
 本项目采用[MIT许可证](LICENSE)。
 
+](https://github.com/FSL0257/SmartNewsButler-/edit/main/README.md)
